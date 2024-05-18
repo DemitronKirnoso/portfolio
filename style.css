@@ -1,0 +1,120 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #086FA1;
+    height: 75px;
+}
+.link-header {
+    margin: 30px;
+    background-color: #235D79;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    width: 150px;
+    height: 30px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 1px 0 rgb(70, 70, 70);
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.link-nav{
+    color: rgb(0, 0, 0);
+    background-color: #0E51A7;
+    padding: 15px;
+    border-radius: 15px;
+    text-decoration: none;
+    box-shadow: 5px 5px 1px 0 rgb(70, 70, 70);
+}
+
+.c {
+    color: rgb(0, 0, 0);
+    background-color: #0E51A7;
+    padding: 15px;
+    border-radius: 15px;
+    text-decoration: none;
+    box-shadow: 5px 5px 1px 0 rgb(70, 70, 70);
+}
+
+.dodge {
+    float: right;
+}
+
+.dodge:hover {
+    transform: translateX(-150px) translateY(-170px);
+    transition: all 2s ease-in;
+}
+
+footer {
+    background-color: rgb(44, 118, 214);
+    width: 850px;
+}
+
+.fg {
+    background-color: rgb(32, 117, 228);
+    width:200px;
+}
+
+body {
+    background-color: #8ccdeb;
+}
+
+main h1 {
+    text-align: center;
+    background-image: url(https://png.pngtree.com/background/20220731/original/pngtree-background-wall-red-bricks-picture-image_1908110.jpg);
+    width: 250px;
+    color: rgb(255, 255, 255);
+    font-family: Jaro;
+}
+
+.volvo {
+    border: 4px inset black;
+    border-radius: 20px;
+    background-color: rgb(114, 155, 233);
+    padding: 7px;
+}
+
+.volvo a {
+    color: rgb(190, 235, 253)
+}
+
+.social {
+    padding: 10%;
+}
+
+.al {
+    padding-top: 0%;
+    height: 250px
+}
+
+.sd {
+    display: flex;
+    height: 250px;
+}
+
+main ul {
+    font-size: 30px;
+    background-color: rgb(19, 77, 145);
+    width: 300px
+}
+
+h2 {
+    background-color: rgb(82, 147, 243);
+    width: 250px
+}
+
+main ol {
+    border: 4px inset black;
+    border-radius: 20px;
+    background-color: rgb(114, 155, 233);
+    padding: 20px;
+}
